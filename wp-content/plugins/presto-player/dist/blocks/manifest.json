@@ -1,0 +1,32 @@
+{
+  "admin.css": "blocks/admin-5835bbca.css",
+  "admin.css.map": "blocks/admin-5835bbca.css.map",
+  "admin.js": "blocks/admin-5d9d87bd.js",
+  "admin.js.map": "blocks/admin-5d9d87bd.js.map",
+  "runtime.js": "blocks/runtime-864c826f.js",
+  "runtime.js.map": "blocks/runtime-864c826f.js.map",
+  "vendors--presto-player--admin.js": "blocks/vendors--presto-player--admin-49c29252.js",
+  "vendors--presto-player--admin.js.map": "blocks/vendors--presto-player--admin-49c29252.js.map",
+  "wpackioEp": {
+    "admin": {
+      "assets": {
+        "js": [
+          "blocks/runtime-864c826f.js",
+          "blocks/vendors--presto-player--admin-49c29252.js",
+          "blocks/admin-5d9d87bd.js"
+        ],
+        "js.map": [
+          "blocks/runtime-864c826f.js.map",
+          "blocks/vendors--presto-player--admin-49c29252.js.map",
+          "blocks/admin-5d9d87bd.js.map"
+        ],
+        "css": [
+          "blocks/admin-5835bbca.css"
+        ],
+        "css.map": [
+          "blocks/admin-5835bbca.css.map"
+        ]
+      }
+    }
+  }
+}
